@@ -1,4 +1,5 @@
 site_name: Whitespire Documentation
+site_url: https://docs.whitespire.org
 theme:
   name: material
   palette:
