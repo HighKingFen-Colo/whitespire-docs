@@ -4,5 +4,10 @@ theme:
   name: material
   palette:
     scheme: slate
+  features:
+    - navigation.instant
+    - search.suggest
+    - search.highlight
 plugins:
   - privacy
+  - search
