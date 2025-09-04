@@ -11,3 +11,5 @@ theme:
 plugins:
   - privacy
   - search
+extra:
+  generator: false
