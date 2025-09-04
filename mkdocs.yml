@@ -3,3 +3,5 @@ theme:
   name: material
   palette:
     scheme: slate
+plugins:
+  - privacy
