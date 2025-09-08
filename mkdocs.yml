@@ -8,8 +8,14 @@ theme:
     - navigation.instant
     - search.suggest
     - search.highlight
+markdown_extensions:
+  - admonition
 plugins:
   - privacy
   - search
 extra:
   generator: false
+nav:
+  - Home: index.md
+  - Proxmox:
+    - Link Aggregation Control Protocol: proxmox/lacp.md
